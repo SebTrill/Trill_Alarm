@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Alarm_GUI/1.0.0": {
+        "dependencies": {
+          "Alarm_Library": "1.0.0"
+        },
+        "runtime": {
+          "Alarm_GUI.dll": {}
+        }
+      },
+      "Alarm_Library/1.0.0": {
+        "runtime": {
+          "Alarm_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alarm_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alarm_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
